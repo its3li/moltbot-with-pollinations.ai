@@ -24,7 +24,7 @@ Ensure your instance has at least **20GB of disk space** and **node v22+** insta
 
 ### 2. Installation
 ```bash
-git clone <your-repo-url> moltbot
+git clone https://github.com/its3li/moltbot-with-pollinations.ai.git moltbot
 cd moltbot
 pnpm install
 ```
